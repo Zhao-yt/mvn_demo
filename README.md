@@ -1,2 +1,0 @@
-# mvn_demo
-test
